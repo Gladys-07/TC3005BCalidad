@@ -1,0 +1,16 @@
+{
+  "name": "triangle-classification",
+  "version": "1.0.0",
+  "description": "Clasificación de triángulos",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest --coverage "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
